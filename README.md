@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Dubey</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-il-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dev-il-dev" /> </p>
 
-- 🔭 I’m currently working on **Embedded systems and Computer Vision**
+- 🔭 I’m currently working on **Automation and Software Development**
 
 - 👯 I’m looking to collaborate on **Deep learning and NLP**
 

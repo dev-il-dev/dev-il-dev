@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Dubey</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-il-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dev-il-dev" /> </p>
-<h2 align="center">Software Engineer Intern  <img src="https://user-images.githubusercontent.com/90281515/182209188-5e442aee-87c2-4f19-822f-1d57db3dfacd.png" width="110" /></h2>
-<h3 align="center">Travel and Cricket 🚀</h3>
+<h4 align="center">Travel and Cricket 🚀</h4>
 
+<h2 align="center">Software Engineer Intern  <img src="https://user-images.githubusercontent.com/90281515/182209188-5e442aee-87c2-4f19-822f-1d57db3dfacd.png" width="110" /></h2>
 <h3 align="center">IIT Bombay, TIH-IoT fellow'22</h3>
+
 <h3 align="center">Bachelor of Technology, Indian Institute of Engineering Science and Technology, 2023</h3>
 
 

@@ -10,9 +10,9 @@
 
 
 
-- 🔭 I’m currently working on **Automation and Software Development**
+- 🔭 I’m currently working on **Embedded Systems, Automation and Software Development**
 
-- 👯 I’m looking to collaborate on **Deep learning and NLP**
+- 👯 I’m looking to collaborate on **Computer Vision and Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-il-dev](https://github.com/dev-il-dev)
 

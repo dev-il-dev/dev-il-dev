@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Dubey</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-il-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dev-il-dev" /> </p>
-<h3 align="center">Travel and Cricket 🚀</h3>
+<h3 align="center">Travel and Cricket 🏏</h3>
 
-<h3 align="center">Software Engineer Intern  <img src="https://user-images.githubusercontent.com/90281515/182209188-5e442aee-87c2-4f19-822f-1d57db3dfacd.png" width="90" /></h3>
-<h3 align="center">IIT Bombay, TIH-IoT fellow'22</h3>
+<h3 align="center">Embedded Software Engineer  <img src="https://th.bing.com/th/id/OIP.1yXRCkivdePbqa8o-w97uwHaCm?w=320&h=122&c=7&r=0&o=5&dpr=1.1&pid=1.7" width="100" /></h3>
+<h3 align="center">Software Engineer Intern'23 <img src="https://user-images.githubusercontent.com/90281515/182209188-5e442aee-87c2-4f19-822f-1d57db3dfacd.png" width="100" /></h3>
+<h3 align="center">IIT Bombay, TIH-IoT fellow'22-23 <img src="https://github.com/dev-il-dev/dev-il-dev/assets/90281515/38003cf9-8baa-464a-aece-b2f81d88e427" width="100" /></h3>
 
 <h3 align="center">Bachelor of Technology, Indian Institute of Engineering Science and Technology, 2023</h3>
 
@@ -12,7 +13,7 @@
 
 - 🔭 I’m currently working on **Embedded Systems, Automation and IoT**
 
-- 👯 I’m looking to collaborate on **Computer Vision and Software Development**
+- 👯 I’m looking to collaborate on **Embedded Systems, Software Development and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-il-dev](https://github.com/dev-il-dev)
 

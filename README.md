@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Embedded Systems, Automation and IoT**
 
-- 👯 I’m looking to collaborate on **Embedded Systems, Software Development and Machine Learning**
+- 👯 I’m looking to collaborate on **Embedded Systems, Software Development and Computer Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-il-dev](https://github.com/dev-il-dev)
 

@@ -4,7 +4,7 @@
 
 <h3 align="center">Embedded Software Engineer  <img src="https://th.bing.com/th/id/OIP.1yXRCkivdePbqa8o-w97uwHaCm?w=320&h=122&c=7&r=0&o=5&dpr=1.1&pid=1.7" width="100" /></h3>
 <h3 align="center">Software Engineer Intern'23 <img src="https://user-images.githubusercontent.com/90281515/182209188-5e442aee-87c2-4f19-822f-1d57db3dfacd.png" width="100" /></h3>
-<h3 align="center">IIT Bombay, TIH-IoT fellow'22-23 <img src="https://github.com/dev-il-dev/dev-il-dev/assets/90281515/38003cf9-8baa-464a-aece-b2f81d88e427" width="100" /></h3>
+<h3 align="center">IIT Bombay, TIH-IoT fellow'22-23 <img src="https://github.com/user-attachments/assets/0e7045ec-31de-4e94-a491-830b0ae8b68a" width="100" /></h3>
 
 <h3 align="center">Bachelor of Technology, Indian Institute of Engineering Science and Technology, 2023</h3>
 

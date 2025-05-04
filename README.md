@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-il-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dev-il-dev" /> </p>
 <h3 align="center">Travel and Cricket 🏏</h3>
 
-<h3 align="center">Embedded Software Engineer  <img src="https://th.bing.com/th/id/OIP.1yXRCkivdePbqa8o-w97uwHaCm?w=320&h=122&c=7&r=0&o=5&dpr=1.1&pid=1.7" width="100" /></h3>
+<h3 align="center">Embedded Software Engineer  <img src="https://github.com/user-attachments/assets/958fe03c-2cab-43fb-8abb-9383af479d13" width="100" /></h3>
 <h3 align="center">Software Engineer Intern'23 <img src="https://user-images.githubusercontent.com/90281515/182209188-5e442aee-87c2-4f19-822f-1d57db3dfacd.png" width="100" /></h3>
 <h3 align="center">IIT Bombay, TIH-IoT fellow'22-23 <img src="https://github.com/user-attachments/assets/0e7045ec-31de-4e94-a491-830b0ae8b68a" width="100" /></h3>
 
@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on **Embedded Systems, Automation and IoT**
 
-- 👯 I’m looking to collaborate on **Embedded Systems, Software Development and Computer Architecture**
+- 👯 I’m looking to collaborate on **Embedded Systems, Edge AI, Embedded Software Development and Computer Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-il-dev](https://github.com/dev-il-dev)
 
-- 📫 How to reach me **https://sarvesh.bio.link**
+- 📫 How to reach me **https://sarvesh.bio.link** Email- sarvesh.iiests@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

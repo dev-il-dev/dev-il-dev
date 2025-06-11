@@ -3,7 +3,7 @@
 <h3 align="center">Travel and Cricket 🏏</h3>
 
 <h3 align="center">Embedded Software Engineer  <img src="https://github.com/user-attachments/assets/958fe03c-2cab-43fb-8abb-9383af479d13" width="100" /></h3>
-<h3 align="center">Software Engineer Intern, June-July'2022 <img src="https://user-images.githubusercontent.com/90281515/182209188-5e442aee-87c2-4f19-822f-1d57db3dfacd.png" width="100" /></h3>
+<h3 align="center">Software Engineer Intern, June-July'22 <img src="https://user-images.githubusercontent.com/90281515/182209188-5e442aee-87c2-4f19-822f-1d57db3dfacd.png" width="100" /></h3>
 <h3 align="center">IIT Bombay, TIH-IoT fellow'22-23 <img src="https://github.com/user-attachments/assets/0e7045ec-31de-4e94-a491-830b0ae8b68a" width="100" /></h3>
 
 <h3 align="center">Bachelor of Technology, Indian Institute of Engineering Science and Technology, 2023</h3>

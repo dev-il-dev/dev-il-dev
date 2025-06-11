@@ -11,9 +11,9 @@
 
 
 
-- 🔭 I’m currently working on **Embedded Systems, Low level system design and IoT**
+- 🔭 I’m currently working on **Embedded Systems, Low Level System Design, Computer Architecture and IoT**
 
-- 👯 I’m looking to collaborate on **Embedded Systems, Edge AI, Operating Systems, Software Development and Computer Architecture**
+- 👯 I’m looking to collaborate on **Embedded Software Development, Operating Systems, and Edge AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-il-dev](https://github.com/dev-il-dev)
 
